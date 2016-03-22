@@ -1,0 +1,7 @@
+C:\Users\Michael\documents\visual studio 2013\Projects\PrcticeVelocityProject\NUnit\bin\Debug\NUnit.dll
+C:\Users\Michael\documents\visual studio 2013\Projects\PrcticeVelocityProject\NUnit\bin\Debug\NUnit.pdb
+C:\Users\Michael\documents\visual studio 2013\Projects\PrcticeVelocityProject\NUnit\bin\Debug\nunit.framework.dll
+C:\Users\Michael\documents\visual studio 2013\Projects\PrcticeVelocityProject\NUnit\bin\Debug\nunit.framework.xml
+C:\Users\Michael\documents\visual studio 2013\Projects\PrcticeVelocityProject\NUnit\obj\Debug\NUnit.csprojResolveAssemblyReference.cache
+C:\Users\Michael\documents\visual studio 2013\Projects\PrcticeVelocityProject\NUnit\obj\Debug\NUnit.dll
+C:\Users\Michael\documents\visual studio 2013\Projects\PrcticeVelocityProject\NUnit\obj\Debug\NUnit.pdb
